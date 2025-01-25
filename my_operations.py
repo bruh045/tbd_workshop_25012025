@@ -3,7 +3,7 @@ def add(num1: int, num2: int) -> None:
     # Edit code under this line
     
     print(num1, "+", num2, "is", num1+num2)
-    pass
+
 
 
 # Member B: edit this function.
